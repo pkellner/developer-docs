@@ -16,7 +16,7 @@ Our WebExtension APIs are meant to be stable, but we are adding new features and
 * [Thunderbird 98](https://webextension-api.thunderbird.net/en/latest/changes/beta98.html)
 * [Thunderbird 100](https://webextension-api.thunderbird.net/en/latest/changes/beta100.html)
 * [Thunderbird 101](https://webextension-api.thunderbird.net/en/latest/changes/beta101.html)
-* [Thunderbird 102](https://webextension-api.thunderbird.net/en/latest/changes/beta102.html)
+* [Thunderbird 102](https://webextension-api.thunderbird.net/en/latest/changes/esr102.html#thunderbird-101-beta)
 
 ## Changes in Thunderbird Core
 
